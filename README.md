@@ -28,6 +28,10 @@ Please contact Jianwei Wu at <b>wjwcis@udel.edu</b> before any pull request is c
 - <b>kotlin</b> folder contains all implementations for concept analysis and top-level/secondary code.
 - <b>RunAnalysis</b> starts the Plugin.
 
+## Publication
+
+- Wu, Jianwei, and James Clause. "Automated identification of uniqueness in junit tests." ACM Transactions on Software Engineering and Methodology 32.1 (2023): 1-32.
+
 ## License
 MIT License
 
